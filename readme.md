@@ -18,3 +18,6 @@ Copies files or directories
 
 ### mv
 moves or renames files or directories.
+
+### cat
+Displays the contents of a file
