@@ -28,3 +28,5 @@ Initializes a new Git repository in the current directory.
 ### status
 Shows status of changes
 
+### add
+Stages changes to be committed
