@@ -39,3 +39,6 @@ Lists, creates, or deletes branches
 
 ### checkout
 Switches to another branch
+
+### merge
+Merges 2 current branch with another
