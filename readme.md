@@ -21,3 +21,6 @@ moves or renames files or directories.
 
 ### cat
 Displays the contents of a file
+
+### init
+Initializes a new Git repository in the current directory.
