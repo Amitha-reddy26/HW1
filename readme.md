@@ -33,3 +33,6 @@ Stages changes to be committed
 
 ### commit
 Records staged changes with message
+
+### branch
+Lists, creates, or deletes branches
