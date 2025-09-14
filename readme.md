@@ -9,3 +9,6 @@ Prints the full path of the current working directory.
 
 ### mkdir
 Creates a new directory.
+
+### rm
+Removes files or directories. Uses rm -r for directories.
