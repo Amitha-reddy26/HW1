@@ -30,3 +30,6 @@ Shows status of changes
 
 ### add
 Stages changes to be committed
+
+### commit
+Records staged changes with message
